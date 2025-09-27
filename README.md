@@ -3,10 +3,10 @@
 ## Computer Science Major - Specialty in Software Engineering (Full-Stack Development)
 
 - ⚙️ **I use daily:** `.py`, `.java`  
-- 🎮 **Minecraft developer** @ [SolarCiv.com](https://www.solarciv.com)  
-- 🤖 **Discord bot developer:** I build and maintain private Discord bots (automation, tracking, and utility).  
-- 🛠️ **Mod developer:** I create public and private mods for multiple Paradox Interactive games.  
-- 🧩 **Reverse engineering (learning & applied):**  
+- 🎮 **Full-Stack & DevOps Developer** @ [SolarCiv.com](https://www.solarciv.com)  
+- 🤖 **Discord Bot Developer:** I build and maintain private Discord bots (automation, tracking, and utility).  
+- 🛠️ **Mod Developer:** I create public and private mods for multiple Paradox Interactive games.  
+- 🧩 **Reverse Engineering (learning & applied):**  
   - Reverse-engineered multiple Unreal Engine 3 games and networking protocols for modding purposes.  
   - Reverse engineer APIs using in-game memory management and runtime inspection.  
   - Expanding knowledge in software security and system analysis.  
